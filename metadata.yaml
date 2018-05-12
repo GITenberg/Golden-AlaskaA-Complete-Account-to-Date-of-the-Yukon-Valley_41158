@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39898'
     url: http://www.gutenberg.org/2009/agents/39898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41158#Golden-AlaskaA-Complete-Account-to-Date-of-the-Yukon-Valley
 gutenberg_issued: '2012-10-24'
 gutenberg_type: Text
 identifiers:
